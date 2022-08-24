@@ -1,0 +1,41 @@
+class Solution {
+    public boolean isValidSudoku(char[][] board)
+    {
+        for(int i=0; i<9; i++)
+        {
+            for(int j=0; j<9; j++)
+            {
+                if(board[i][j]!='.')
+                {
+                    if(!check(board,i,j,board[i][j]))
+                        return false;
+                }
+            }
+         }
+        return true;
+    }
+
+    public boolean check(char[][] board, int row, int col, char num)
+    {   
+        for(int i=col+1;i<9;i++){ //row
+            if(board[row][i] == num)
+                return false;
+        } 
+        for(int i=row+1;i<9;i++){//col
+            if(board[i][col] == num)
+                return false;
+        }
+        int x=row-row%3,y=col-col%3; //3*3 square 
+        // IF HERE COME 5 WE NEED TO COUNT THAT FROM ROW 3 TO ROW 6
+        //X=5-5%3 => X=5-2=3   got the square staring now increase 3 for square.
+        for(int i=x; i<x+3; i++)
+        {
+            for(int j=y; j<y+3; j++) // same for col
+            {
+                if(board[i][j]==num && !(i==row && j==col))
+                    return false;
+            }
+        }   
+        return true;
+    }
+}
