@@ -1,12 +1,11 @@
-# Sourav Kumar Chowhan
+# Sourav Chowhan
 
-- 👋 Hi, I’m Sourav Kumar Chowhan
+- 👋 Hi, I’m Sourav Chowhan
 - 👀 I’m interested in Problem Solving and Software Development
-- 🌱 I’m currently learning Android & iOS Application and GO
-- 💞️ I’m looking to collaborate with a Tech Team 
+- 🌱 I’m now working as a Software Engineer with 2+ years experience.
 - 📫 You can rech me at sourav_chowhan@outlook.com
 
-I love to solve problems and develop softwares. Love to learn new technology day by day. Love Hiking
+I love to solve problems and develop software. I love to learn new technology day by day. Love Hiking
 
 
 <!---
