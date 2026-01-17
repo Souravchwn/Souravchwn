@@ -71,7 +71,7 @@ I focus on building **reliable**, **scalable**, and **high-performance** systems
 
 <p align="left">
   <a href="mailto:sourav_chowhan@outlook.com"><img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sourav-chowhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Souravchwn"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
