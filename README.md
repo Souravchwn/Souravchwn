@@ -1,20 +1,31 @@
-<h1 align="center">Hi 👋, I'm Sourav Chowhan</h1>
-<h3 align="center">Software Engineer | Backend Developer | Problem Solver</h3>
+<h1 align="center">Sourav Chowhan</h1>
+<h3 align="center">Backend Software Engineer · Java / Spring Boot</h3>
+
+<p align="center">
+  <a href="mailto:souravchwn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/souravchwn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Souravchwn"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🚀 About Me  
-I’m a **Software Engineer** with 3 years of experience specializing in **Spring Boot** backend development.  
-I focus on building **reliable**, **scalable**, and **high-performance** systems with clean architecture and efficient data processing.  
+### About Me
 
-💡 I’m passionate about **problem-solving**, **distributed systems**, and writing **efficient, maintainable code**.  
-🎵 When I’m not coding, you’ll probably find me **singing or hiking** — both help me recharge after deep technical work.  
+I'm a **Backend Software Engineer** with 3+ years of production experience specializing in **Java** and **Spring Boot**.
+
+I've built systems that actually handle pressure — a news platform serving **8,000+ concurrent users**, **Kafka-driven pipelines** processing millions of records daily, and an **NFC Digital ID platform** I owned end-to-end for 2+ years. I care about clean architecture, reliable systems, and code that doesn't fall apart after the deadline.
+
+Currently exploring **Go**, **Python**, and **Rust** alongside my Java foundation — always expanding the toolkit.
+
+When I'm not coding, you'll find me **singing or playing the piano** — it keeps the mind fresh after deep technical work. I also love **hiking** — nothing resets perspective like a long trail.
+
+**I'm open to new opportunities** — backend engineering, distributed systems, or anything where I can build things that matter. Let's connect.
 
 ---
 
-### 🛠️ Tech Stack  
+### Tech Stack
 
-#### 💻 Backend  
+**Backend**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -22,65 +33,70 @@ I focus on building **reliable**, **scalable**, and **high-performance** systems
   <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/gRPC-0052CC?style=for-the-badge&logo=grpc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EasyExcel-3DDC84?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JasperReports-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-#### 🗄️ Database & Caching  
+**Databases & Caching**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QueryDSL-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-#### 🖥️ Frontend  
+**Frontend (For API Alignment)**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-#### ⚙️ Other Tools & Platforms  
+**DevOps & Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSocket-0078D7?style=for-the-badge&logo=websocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### What I've Shipped
+
+- Stabilized a news platform handling **6,000–8,000 concurrent users** — eliminated N+1 queries, fixed connection pool exhaustion, cut API latency by **~50%** with Redis caching
+- Built **Spring Batch + Kafka** pipelines processing **millions of e-commerce records daily**
+- Sole backend engineer on an **NFC Digital ID platform** for **2+ years** — Clean Architecture, JWT/OAuth2, deep-link routing, real-time FCM push
+- Engineered **aviation crew scheduling** workflows with PostgreSQL optimization and **JasperReports** flight management reporting
+- Designed an **AOP-based CQRS** implementation for dynamic database routing, validated under concurrency testing
+- Built a **location-aware prayer time API** with layered Redis caching — zero DB hits under load
+
+---
+
+### Currently Exploring
+
+- **Go** — building my second systems language alongside Java
+- **Python** — targeting AI/ML engineering and FastAPI
+- **Rust** — long-term interest in systems programming
+- Advanced **distributed system design** and **observability**
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souravchwn&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Souravchwn&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Souravchwn&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Souravchwn&theme=default&hide_border=true" />
 </p>
 
 ---
 
-### 🌱 Currently Exploring  
-- Advanced distributed system design  
-- Building scalable SaaS platforms  
-- Performance tuning and observability in microservices  
+**ACM-ICPC Asia Dhaka** Honorable Mention · **2x Vice Chancellor's Award** · Vocalist & Pianist
 
 ---
 
-### 📫 Connect With Me  
-
-<p align="left">
-  <a href="mailto:sourav_chowhan@outlook.com"><img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sourav-chowhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Souravchwn"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="center">
+  <b>I'm actively open to backend engineering opportunities — remote, hybrid, or relocation.</b><br/>
+  <i>If you're building something interesting, let's talk.</i>
 </p>
-
----
-
-### ⚡ Fun Fact  
-🎶 Singing helps me unwind after long hours of coding — it keeps my mind clear and creativity alive.  
-🏞️ I also love hiking and exploring nature whenever I get the chance.
-
----
-
-⭐️ *“Code with clarity, build with purpose, and never stop learning.”*  
